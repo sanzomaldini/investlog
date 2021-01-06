@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Invest Log
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
       - title: github repo
@@ -25,7 +25,7 @@ entries:
 
   - title: rss
     url: feed.xml
-  
+
   - title: another list
     entries:
       - title: with subitems
