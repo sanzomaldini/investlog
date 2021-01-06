@@ -1,0 +1,2 @@
+# investlog
+blog for invest
