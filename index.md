@@ -4,28 +4,23 @@ layout: home
 
 ## INVEST LOG ##
 
-- 2021 <https://sanzomaldini.github.io/investlog/2021-01-05-2021>
+- 2021 <https://sanzomaldini.github.io/investlog/2021/01/05/2021.html>
 
-- 2020 <https://sanzomaldini.github.io/investlog/2020-12-31-2020>
+- 2020 <https://sanzomaldini.github.io/investlog/2020/12/31/2020.html>
 
 
 
 ## RESEARCH ##
 
-$PLTR <https://sanzomaldini.github.io/investlog/2020-12-31-PLTR>
+- $PLTR <https://sanzomaldini.github.io/investlog/2020/12/31/PLTR.html>
 
-$TSLA
+- $TSLA
 
-#HACK
+- /#HACK/$FEYE $CRWD $QLYS $RPD
 
-#FAAMG
+- /#FAAMG/ $GOOGL $GOOG $AAPL $AMZN $MSFT $FB ($TWTR)
 
-$GOOGL $GOOG
+## Others ##
 
-$AAPL
-
-$AMZN
-
-$MSFT
-
-$FB
+- Dr. Jordan Peterson
+<https://sanzomaldini.github.io/investlog/2020/12/01/Dr-Jordan-Peterson.html>
