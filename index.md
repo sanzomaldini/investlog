@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # InvestLog #
 
 Blog for invest
@@ -34,4 +30,7 @@ $MSFT
 
 $FB
 
-index.md
+
+---
+layout: home
+---
