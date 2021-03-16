@@ -24,3 +24,6 @@ layout: home
 
 - Dr. Jordan Peterson
 <https://sanzomaldini.github.io/investlog/2020/12/01/Dr-Jordan-Peterson.html>
+
+- UDEMY - Trading stocks successfully - Ten rules of successful trading
+<https://sanzomaldini.github.io/investlog/2021/03/16/Trading-stocks-successfully.html>
