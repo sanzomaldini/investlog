@@ -18,9 +18,10 @@ layout: home
 
 - $TSLA
 
-- /#HACK/$FEYE $CRWD $QLYS $RPD
+- HOLD /#FAAMG/ $GOOGL $GOOG $AAPL $AMZN $MSFT $FB ($TWTR)
 
-- /#FAAMG/ $GOOGL $GOOG $AAPL $AMZN $MSFT $FB ($TWTR)
+- HAULT /#HACK/ $FEYE $CRWD $QLYS $RPD
+
 
 ## Others ##
 
