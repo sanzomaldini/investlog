@@ -4,6 +4,8 @@ layout: home
 
 ## INVEST LOG ##
 
+- 2022 <https://sanzomaldini.github.io/investlog/2022/01/13/2022.html>
+
 - 2021 <https://sanzomaldini.github.io/investlog/2021/01/05/2021.html>
 
 - 2020 <https://sanzomaldini.github.io/investlog/2020/12/31/2020.html>
