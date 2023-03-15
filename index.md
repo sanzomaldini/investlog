@@ -33,4 +33,6 @@ layout: home
 - UDEMY - Trading stocks successfully - Ten rules of successful trading
 <https://sanzomaldini.github.io/investlog/2021/03/16/Trading-stocks-successfully.html>
 
-- ChatGPT related
+- AI
+ChatGPT related
+<https://phoemix.notion.site/Hacking-for-ChatGPT-528af34ccad84e018b8589b28cf8459c>
